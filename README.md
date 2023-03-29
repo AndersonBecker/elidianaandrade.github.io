@@ -1,6 +1,6 @@
 <div id="top" align="center">
   <a href="https://elidianaandrade.github.io/">
-    <img alt="Screen Portfolio" src="https://raw.githubusercontent.com/elidianaandrade/elidianaandrade.github.io/main/docs/assets/images/screen.jpg">
+    <img alt="Screen Portfolio" src="https://user-images.githubusercontent.com/97471199/228677986-1c9bb8d5-515e-4f01-82fe-20a4135d954c.jpg">
   </a>
 </div>
 
