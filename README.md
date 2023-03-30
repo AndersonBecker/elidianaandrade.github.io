@@ -6,12 +6,36 @@
 
 # Elidiana Andrade | Portfolio
 
-## 👩‍💻 Sobre o projeto
-Portfolio desenvolvido para compartilhar meus projetos e artigos voltados para Desenvolvimento Web.
+<h2>
+    <img align="center" alt="Logo Elidiana Andrade" width="28px" src="https://elidianaandrade.github.io/assets/images/ea-logo.webp">
+    <span>ﾠSobre o projeto</span>
+</h2>
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=netlify&logoColor=7520FF)](https://elidianaandrade.github.io/)
+Portfolio desenvolvido para compartilhar meus projetos e artigos voltados para Desenvolvimento Web. 
+
+[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=7520FF)](https://elidianaandrade.github.io/)
+[![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-7520FF?style=for-the-badge)](https://elidianaandrade.github.io/)
+
+O portfolio é composto pelas seções: 
+- **Home:** Página inicial contendo uma descrição, redes sociais, projeto e artigo em destaque; 
+- **Projects:** Galeria de projetos categorizada por tecnologia; 
+- **Articles:** Galeria de artigos categorizada por tema; 
+- **About:** Sobre o autor, incluindo habilidades, educação e experiências; 
+- **Contact:** Informações para contato.
+
+
 
 ## 💻 Tecnologias
-[![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=7520FF)](https://angular.io/docs)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap5-000?style=for-the-badge&logo=bootstrap&logoColor=7520FF)](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
-[![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=sass&logoColor=7520FF)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=7520FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=7520FF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7520FF)
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=7520FF)
+![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=sass&logoColor=7520FF)
+
+## ✨ Recursos
+- Design de interface autêntico e acessível;
+- Animações na página principal e na transição entre páginas;
+- Temas Dark e Light;
+- Layout responsivo.
+
+<div align="right">Made with 💜 by <a href="https://elidianaandrade.github.io/">EA</a>.</div>
