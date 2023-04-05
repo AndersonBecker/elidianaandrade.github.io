@@ -38,4 +38,4 @@ O portfolio é composto pelas seções:
 - Temas Dark e Light;
 - Layout responsivo.
 
-<div align="right">Made with 💜 by <a href="https://elidianaandrade.github.io/">EA</a>.</div>
+<div align="right">Made with 💜 by <a href="https://github.com/elidianaandrade">EA</a>.</div>
